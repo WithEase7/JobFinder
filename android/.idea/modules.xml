@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jobfinder.iml" filepath="$PROJECT_DIR$/.idea/modules/jobfinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/jobfinder.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/jobfinder.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1445521917/jobfinder.react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/-1445521917/jobfinder.react-native-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/6668826/jobfinder.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/6668826/jobfinder.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-928113998/jobfinder.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-928113998/jobfinder.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1112695685/jobfinder.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/1112695685/jobfinder.react-native-vector-icons.iml" />
+    </modules>
+  </component>
+</project>

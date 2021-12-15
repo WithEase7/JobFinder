@@ -1,0 +1,14 @@
+com/jobfinder/MainActivity.java
+ com.jobfinder.MainActivity
+com/jobfinder/BuildConfig.java
+ com.jobfinder.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/jobfinder/ReactNativeFlipper.java
+ com.jobfinder.ReactNativeFlipper
+ com.jobfinder.ReactNativeFlipper$1
+ com.jobfinder.ReactNativeFlipper$2
+ com.jobfinder.ReactNativeFlipper$2$1
+com/jobfinder/MainApplication.java
+ com.jobfinder.MainApplication
+ com.jobfinder.MainApplication$1
